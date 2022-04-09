@@ -6,9 +6,6 @@
 
 [点击右上角Star和Watch来跟踪项目进展! 点击Fork来创建属于你的QUANTAXIS!]
 
-![QUANTAXIS_LOGO_LAST_small.jpg](http://picx.gulizhu.com/Fn0TPEcwu_uhraf58_93Ul5yfvAz)
-
-![gvp](http://picx.gulizhu.com/gvp.jpg)
 
 
 更多文档在[QABook Release](https://github.com/QUANTAXIS/QUANTAXIS/releases/download/latest/quantaxis.pdf)
